@@ -22,9 +22,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- While aleady in your MS Azure account, create a resource group
-- Create a Windows 10 Virtual Machine (VM) with 2-4 virtual CPUs, when creating the vm, allow it to create a new Virtual Network (Vnet)
+- While aleady in your MS Azure account, create a resource group: 
+- Step 1: To do this, click on the search bar and type in resource group and select the resource group when it shows up, 
+- Step 2: Next click on the create option that will lead you to a new page for creating your resource group.
+- Step 3: put in the name of your choice and and select the region you want your resource group to be in and click review and create
+- Finally, if evething looks good; go aheah and click create. 
 
+- Create a Windows 10 Virtual Machine (VM) with 2-4 virtual CPUs, when creating the vm, allow it to create a new Virtual Network (Vnet)
+- 
 <h2>Installation Steps</h2>
 
 <p>
