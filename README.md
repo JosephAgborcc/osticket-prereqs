@@ -30,19 +30,19 @@ You can use these name for this tutorial or you change to whatever you want:
 -Password: osTicketPassword1! (for example/whatever you chose)
 
 <h2>Installation Steps</h2>
--Step 1: Install / Enable IIS in Windows WITH CGI
+Step 1: Install / Enable IIS in Windows WITH CGI
 
--Step 2: Download and install PHP manager for IIS
+Step 2: Download and install PHP manager for IIS
 
--Step 3: Download and install Rewrite module
+Step 3: Download and install Rewrite module
 
--Step 4: Create and install directory C:\PHP
+Step 4: Create and install directory C:\PHP
 
--Step 5: Download PHP 7.3.8 and unzip the content into C:\PHP
+Step 5: Download PHP 7.3.8 and unzip the content into C:\PHP
 
--Step 6: Download and install VC_redist.x.86.exe.
+Step 6: Download and install VC_redist.x.86.exe.
 
--Step 7: Download and install MySQL5.5.62
+Step 7: Download and install MySQL5.5.62
 Typical Setup ->
 - Launch Configuration Wizard (after install) ->
 - Standard Configuration ->
@@ -84,6 +84,8 @@ Continue Setting up osticket in the browser
 
 
 Congratulations, hopefully it is installed with no errors!
+
+Now you can sign into the osTicket.
 
 <p>
 <img src="https://i.imgur.com/8mBa0iA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
