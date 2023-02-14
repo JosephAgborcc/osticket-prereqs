@@ -34,17 +34,20 @@ You can use these name for this tutorial or you change to whatever you want:
 
 -Step 2: Download and install Rewrite module
 
--Create and install directory C:\PHP
--Download PHP 7.3.8 and unzip the content into C:\PHP
--Download and install VC_redist.x.86.exe.
-Download and install MySQL5.5.62
+-Step 3: Create and install directory C:\PHP
+
+-Step 4: Download PHP 7.3.8 and unzip the content into C:\PHP
+
+-Step 5: Download and install VC_redist.x.86.exe.
+
+-Step 6: Download and install MySQL5.5.62
 Typical Setup ->
 - Launch Configuration Wizard (after install) ->
 - Standard Configuration ->
 - Password1
 
 Register PHP from within IIS
-Reload IIS (Open IIS, Stop and Start the server)
+Reload IIS (Open IIS, Stop and Start the server or restart)
 Install osTicket v1.15.8
 - Download osTicket from the Installation Files Folder
 - Extract and copy “upload” folder to c:\inetpub\wwwroot
