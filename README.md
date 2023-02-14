@@ -31,6 +31,7 @@ You can use these name for this tutorial or you change to whatever you want:
 
 <h2>Installation Steps</h2>
 -Step 1: Download and install PHP manager for IIS
+
 -Step 2: Download and install Rewrite module
 
 -Create and install directory C:\PHP
