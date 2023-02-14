@@ -85,9 +85,9 @@ Continue Setting up osticket in the browser
 
 Congratulations, hopefully it is installed with no errors!
 
-Now you can sign into the osTicket.
-
 Last step- Step 12: Clean up
 - Delete: C:\inetpub\wwwroot\osTicket\setup
 - Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+Now you can sign into the osTicket.
 
